@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
+عالمي . ownername    = أ  "مشاكس ❤️"    // اسم المالك الخاص
+عالمي . ytname   =   "YT: Egypt"   // اسم قناة ur y
+عالمي . socialm  =  "GitHub: Egypt.9a"  // اسم جيثب أو إنستا
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+عالمي . ownernomer  =  "20 2 2793253"  // رقمك
+عالمي . premium  = [ '20 2 2793253' ] // الرقم المميز الخاص بك
+عالمي . botname  =  '❤️ahmed ᗷOT❤️'  // اسم الروبوت الخاص بك
+عالمي . linkz  =  "https://www.tiktok.com/@e.gyptian_army.0?_t=8cyIX024YPm&_r=1"  // عنوان URL للموضوع الذي سيتم عرضه على whatsapp
+عالمي . websitex  =  "https://www.tiktok.com/@e.gyptian_army.0?_t=8cyIX024YPm&_r=1"  // موقع الويب الخاص بك ليتم عرضه
+عالمي . botscript  =  'https://www.tiktok.com/@e.gyptian_army.0?_t=8cyIX024YPm&_r=1'  // رابط البرنامج النصي
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+عالمي . packname     =     "⍣ahmed" // حزمة العلامة المائية الخاصة بملصقك
+عالمي . المؤلف      =      "⍣20 2 2793253⍣ // مؤلف العلامة المائية للملصق الخاص بك
+عالمي . وم  =  "❤️ahmed ᗷOT❤️."  // العلامة المائية الخاصة بك
 
 // Other
 global.sessionName = 'session'
